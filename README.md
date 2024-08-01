@@ -1,19 +1,14 @@
 # EkoTarım Sitesi Asp.Net Framework Template Giydirme
 
-```
-Patika platformunun gerçekleştirmiş olduğu Sipay Bootcamp'in ödevleri ve içerikleri.
-```
+
 
 
 ## İçerik
 - C#
-- Sql
-- Entity Framework
-- Code First
-- Html5 
-- Css3  
-- Bootstrap4 
-
+- ASP.NET Framework
+- SQL
+- HTML5
+- CSS3
 
 
 
