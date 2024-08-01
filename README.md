@@ -4,7 +4,7 @@
 Patika platformunun gerçekleştirmiş olduğu Sipay Bootcamp'in ödevleri ve içerikleri.
 ```
 
-<br>
+
 ## İçerik
 - C#
 - Sql
