@@ -13,7 +13,7 @@ Patika platformunun gerçekleştirmiş olduğu Sipay Bootcamp'in ödevleri ve i�
 - Html5 
 - Css3  
 - Bootstrap4 
-#
+
 
 
 
