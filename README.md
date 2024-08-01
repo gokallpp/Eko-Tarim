@@ -1,11 +1,19 @@
-# EkoTarım Asp.net Framework Template Giydirme
+# EkoTarım Sitesi Asp.Net Framework Template Giydirme
 
 ```
 Patika platformunun gerçekleştirmiş olduğu Sipay Bootcamp'in ödevleri ve içerikleri.
 ```
 
 <br>
-
+## İçerik
+- C#
+- Sql
+- Entity Framework
+- Code First
+- Html5 
+- Css3  
+- Bootstrap4 
+#
 
 
 
